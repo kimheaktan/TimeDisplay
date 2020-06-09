@@ -1,0 +1,25 @@
+{
+  "FilePath": "/Users/user/coding dojo/csharpNew/asp1_Mvc/TimeDisplay/TimeDisplay.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": "TimeDisplay",
+  "Documents": [
+    {
+      "FilePath": "/Users/user/coding dojo/csharpNew/asp1_Mvc/TimeDisplay/Views/Home/Home.cshtml",
+      "TargetPath": "Views\\Home\\Home.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}
